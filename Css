@@ -1,0 +1,99 @@
+#header{
+  background-image:url(untitled.png);
+  width:100%;
+  background-repeat:no-repeat;
+  background-size: contain;
+  border: 1px solid #FB414E;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  }
+  #mainnav{
+  font-size:2vw;
+  color:white;
+  font-family:Sans-serif;
+  margin-left:12%;
+   }
+  .c2{
+  padding:6px;
+  font-size:1.3vw;
+  color:white;
+  font-family:Sans-serif;
+  text-decoration:none";
+  }
+  .c3{
+  text-decoration:none;
+  }
+  .c4{
+  font-size:1.2vw;
+  color:white;
+  font-family:Sans-serif;
+  margin-left:12%
+  }
+  .c5{
+  font-size:34px;
+  color:white;
+  font-family:Sans-serif;
+  margin-left:12%
+  }
+  .p1{
+  margin-left:12%;
+  color:white;
+  font-family:Sans-serif;
+  font-size:1vw;
+  }
+  .responsive{
+  width: 100%;
+  max-width:175px;
+  height: auto;
+  margin-left:12%;
+  padding-bottom:6%;
+  float:left;
+  }
+  #art2{
+  margin-top:6%;
+  }
+  .text{
+  font-size:2vw;
+  color:black;
+  font-family:Sans-serif;
+  }
+  .p2{
+  color:black;
+  font-family:Sans-serif;
+  font-size:1vw;
+  }
+  .responsive1{
+  width: 100%;
+  max-width:175px;
+  height: auto;
+  float:right;
+  }
+  .p3{
+  color:black;
+  font-family:Sans-serif;
+  font-size:1vw;
+  margin-left:12%
+  }
+  .text1{
+  font-size:2vw;
+  color:black;
+  font-family:Sans-serif;
+  margin-left:12%
+  }
+  .c6{
+  font-size:2.5vw;
+  color:black;
+  font-family:Sans-serif;
+  }
+  .p4{
+  color:black;
+  font-family:Sans-serif;
+  font-size:1vw;
+  }
+  .c22{
+  font-size:1.3vw;
+  color:white;
+  font-family:Sans-serif;
+  
+  }
