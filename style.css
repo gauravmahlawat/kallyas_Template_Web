@@ -1,4 +1,4 @@
-  #header{
+  .header{
   background-image:url(untitled.png);
   width:100%;
   background-repeat:no-repeat;
@@ -8,7 +8,7 @@
   background-attachment: fixed;
   background-size: cover;
   }
-  #main{
+  .nav{
   margin-left:12%;
   font-size:2vw;
   color:white;
@@ -59,20 +59,20 @@
 	.section__figure{
 	 display: inline-block;
 	}
-  #one, #two, #three { 
+  .grid__one, .grid__two, .grid__three { 
   float: left;
   width: 23.3%;
   margin-top:-4%;
   }
-  #one{
+  .grid__one{
 	  margin-left:12%;
 	  background-color:#FB414E;
 	  }
-  #two{
+  .grid__two{
 	  margin-left:2%;
 	  background-color:#202B2F;
 	  }
-  #three {
+  .grid__three {
 	  margin-left:2%;
 	  background-color:#202B2F;
 	  }
@@ -299,28 +299,28 @@
   color:black;
   font-family:Sans-serif;
   }
-   #input1{
+   .btn__input{
 	  padding:1%;
 	  width:38%; 
 	  margin-left:8%;
 	  border:solid;
 	  border-width:1px;
   }
-  #input2{
+  .btn__input2{
 	  padding:1%;
 	  width:17%;
 	  margin-left:8%;
 	  border:solid;
 	  border-width:1px;
   }
-  #input3{
+  .btn__input3{
 	  padding:1%;
 	  width:17%;
 	  margin-left:2%;
 	  border:solid;
 	  border-width:1px;
   }
-#input4{
+.btn__input4{
 	 padding-bottom:9%;
 	 margin-top:0.6%;
 	 width:40%;
@@ -329,7 +329,7 @@
 	 margin-right:23.4%;
 	 float:right;
  }
- #submit0{
+ .btn__submit{
 	background-color:#FB414E;
 	padding:1%;
 	width:77%;
@@ -337,11 +337,11 @@
 	color:white;
 	margin-top:2%;
  }
- #foot{
+ .foot{
 	 background-color:#000000;
 	 margin-top:5%;
  }
- #img3{
+ .flex__img{
 	 max-width:8%;
 	 height:auto;
 	 margin-right:3%;
@@ -350,29 +350,29 @@
  #flex{
 	 display:flex;
  }
- #img4{
+ .footer__logo{
 	 max-width:4%;
 	 height:auto;
 	 margin-top:5%;
 	 margin-left:-11%;
  }
- #img5{
+ .footer__contact{
 	 max-width:11%;
 	 height:auto;
 	 margin-top:5%;
 	 float:right; 
 	 margin-right:15%;
  }
- #img6{
+ .footer__img{
 	 max-width:20%;
 	 height:auto;
 	 margin-top:3%; 
 	 margin-left:12%;
  }
- #foot1{
+ .footer__nav{
 	 margin-left:30%;
  }
-  #copyr{
+  .copyright{
 	  color:white;
 	  margin-left:71%;
 	  opacity:0.5;
@@ -398,24 +398,14 @@
 	  border-style:none;
 	  margin-bottom:3%;
   }
-  #select service{
+  .select__service{
 	   padding:1%;
 	   width:40%;
 	   margin-left:8%;
 	   border:solid;
 	   border-width:1px;
   }
-  #img1{
-	  max-width:10%;
-	  height:auto;
-	  margin-right:4%;
-  }
-  #img2{
-	  max-width:15%;
-	  height:auto;
-	  margin-right:23%;
-	  margin-top:-9%;
-  }
+  
   .article__p3{
   color:black;
   font-family:Sans-serif;
@@ -443,7 +433,7 @@
 	  color:white; 
 	  font-family:Sans-serif;
   }
- #submit0{
+ .btn__submit{
 	background-color:#FB414E;
 	padding:1%;
 	width:77%;
@@ -451,7 +441,7 @@
 	color:white;
 	margin-top:2%;
  }
- #img3{
+ .footer__first{
 	 max-width:8%;
 	 height:auto;
 	 margin-right:3%;
@@ -465,7 +455,7 @@
   padding-bottom:6%;
   float:left;
   }
-  .p10{
+  .btn__text{
   color:black;
   font-family:Sans-serif;
   font-size:1vw;
