@@ -21,16 +21,18 @@
   color:white;
   font-family:Sans-serif;
   text-decoration:none;
+  margin-left:5%;	  
   }
-  .link-style{
+  .nav__bar{
   display:flex;
   text-decoration:none;
   }
-  .herder__featured-content{
+  .header__featured-content{
   font-size:3.2vw;
   color:white;
   font-family:Sans-serif;
-  margin-left:24%
+  margin-left:24%;
+  margin-top:20%;	  
   }
   .header__content{
   font-size:0.9vw;
@@ -347,7 +349,7 @@
 	 margin-right:3%;
 	 margin-top:3%;
  }
- #flex{
+ .flex{
 	 display:flex;
  }
  .footer__logo{
